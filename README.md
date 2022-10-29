@@ -44,7 +44,7 @@ _____________________________________
 ![](https://user-images.githubusercontent.com/44785097/127706669-71cd5cdb-5c2a-4ecc-871b-98a276ae8070.gif)
 
 ## Main mode menu rework:
-![](https://i.imgur.com/UB2EKpV.png](https://imgur.com/HdDYpyH)
+![]((https://i.imgur.com/HdDYpyH.png))
 * Updated Main Menu
 * Donate Options, Awards and Mods removed
 * Infinity background added
