@@ -1,0 +1,50 @@
+{
+	"storyName": "omg sebas from fnf lol",
+	"difficulties": "Hard, Erect",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Deadly-Freshness",
+			"sebas",
+			[
+				255,
+				20,
+				20
+			]
+		],
+		[
+			"Charm-Darkened",
+			"sebasangry",
+			[
+				255,
+				20,
+				20
+			]
+		],
+		[
+			"Wrathful",
+			"sebashell",
+			[
+				255,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"sebasPrev",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Sebastian"
+}
