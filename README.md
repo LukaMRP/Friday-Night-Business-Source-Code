@@ -22,7 +22,7 @@ otherwise, you can delete the "VIDEOS_ALLOWED" Line on Project.xml
 
 **Business Team**
 
-Anny Perez-
+€ Anny Perez-
 
 TwinGeoduk-
 
