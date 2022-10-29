@@ -23,17 +23,28 @@ otherwise, you can delete the "VIDEOS_ALLOWED" Line on Project.xml
 **Business Team**
 
 Anny Perez-
+
 TwinGeoduk-
+
 LukaMRP-
+
 Dany Games *DG*-
 Dry3518-
+
 ElBendy1-
+
 LovelyAriel-
+
 Star Dust-
+
 Pancho-
+
 
 **Psych Team**
 
 Shadow Mario - Programmer-
+
 RiverOaken - Artist-
+
 Yoshubs - Assistant Programmer-
+
