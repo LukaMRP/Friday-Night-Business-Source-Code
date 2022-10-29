@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M sebas Idle",
+	"idle_anim": "M sebas Idle",
+	"position": [
+		170,
+		85
+	],
+	"scale": 1,
+	"image": "Menu_sebasPrev"
+}
