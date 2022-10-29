@@ -51,32 +51,18 @@ _____________________________________
 * Demonstration of the new Boyfriend
 
 ## Mod Structure
-* Lua (Para escenario, mecanicas y script)
+* Lua (For stage, mechanics and script)
 * Source Code (For the menu and other states)
-
-
-## Atleast one change to every week:
-### Week 1:
-  * Updated sebas
-  * Update Boyfriend
-
-## Cool new Chart Editor changes and countless bug fixes
-![](https://github.com/ShadowMario/FNF-PsychEngine/blob/main/docs/img/chart.png?raw=true)
-* You can now chart "Event" notes, which are bookmarks that trigger specific actions that usually were hardcoded on the vanilla version of the game.
-* Your song's BPM can now have decimal values
-* You can manually adjust a Note's strum time if you're really going for milisecond precision
-* You can change a note's type on the Editor, it comes with two example types:
-  * Alt Animation: Forces an alt animation to play, useful for songs like Ugh/Stress
-  * Hey: Forces a "Hey" animation instead of the base Sing animation, if Boyfriend hits this note, Girlfriend will do a "Hey!" too.
-
-## Multiple editors to assist you in making your own Mod
-![Screenshot_3](https://user-images.githubusercontent.com/44785097/144629914-1fe55999-2f18-4cc1-bc70-afe616d74ae5.png)
-* Working both for Source code modding and Downloaded builds!
 
 ## Story mode menu rework:
 ![](https://i.imgur.com/Un3SuXm.png)
 * Added a different BG to every song (less Tutorial)
 * All menu characters are now in individual spritesheets, makes modding it easier.
+
+## Freeplay menu rework:
+![](https://i.imgur.com/oLuKRzA.png)
+* Freeplay songs centered
+* New background
 
 ## Credits menu
 ![Screenshot_1](https://i.imgur.com/8Wr83IP.png)
@@ -85,10 +71,3 @@ _____________________________________
 ## Options menu:
 * You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
  * On Preferences you can toggle Downscroll, Middlescroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Flashing Lights, etc.
-
-## Other gameplay features:
-* When the enemy hits a note, their strum note also glows.
-* Lag doesn't impact the camera movement and player icon scaling anymore.
-* Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
-* You can reset your Score on Freeplay/Story Mode by pressing Reset button.
-* You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
