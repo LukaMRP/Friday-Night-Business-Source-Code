@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				136,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left sebas"
+		},
+		{
+			"offsets": [
+				40,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down sebas"
+		},
+		{
+			"offsets": [
+				21,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up sebas"
+		},
+		{
+			"offsets": [
+				8,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right sebas"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle sebas"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sebas_hell",
+	"position": [
+		-140,
+		-100
+	],
+	"healthicon": "sebashell",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		1,
+		0
+	],
+	"camera_position": [
+		0,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
