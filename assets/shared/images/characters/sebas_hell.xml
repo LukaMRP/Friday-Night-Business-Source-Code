@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sebas.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down sebas0000" x="100" y="100" width="956" height="926"/>
+	<SubTexture name="down sebas0001" x="1156" y="100" width="956" height="926"/>
+	<SubTexture name="down sebas0002" x="2212" y="100" width="915" height="885" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="down sebas0003" x="3227" y="100" width="915" height="885" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="down sebas0004" x="4242" y="100" width="915" height="885" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="down sebas0005" x="5257" y="100" width="915" height="885" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="down sebas0006" x="6272" y="100" width="915" height="885" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="idle sebas0000" x="7287" y="100" width="717" height="897" frameX="-11" frameY="-5" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0001" x="100" y="1126" width="717" height="897" frameX="-11" frameY="-5" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0002" x="917" y="1126" width="731" height="907"/>
+	<SubTexture name="idle sebas0003" x="1748" y="1126" width="731" height="907"/>
+	<SubTexture name="idle sebas0004" x="2579" y="1126" width="706" height="889" frameX="-16" frameY="-9" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0005" x="3385" y="1126" width="706" height="889" frameX="-16" frameY="-9" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0006" x="4191" y="1126" width="706" height="889" frameX="-16" frameY="-9" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0007" x="4997" y="1126" width="651" height="851" frameX="-54" frameY="-23" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0008" x="5748" y="1126" width="651" height="851" frameX="-54" frameY="-23" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0009" x="6499" y="1126" width="623" height="837" frameX="-76" frameY="-26" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0010" x="7222" y="1126" width="623" height="837" frameX="-76" frameY="-26" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0011" x="100" y="2133" width="623" height="837" frameX="-76" frameY="-26" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0012" x="823" y="2133" width="623" height="837" frameX="-76" frameY="-26" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0013" x="1546" y="2133" width="623" height="837" frameX="-76" frameY="-26" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0014" x="2269" y="2133" width="623" height="837" frameX="-76" frameY="-26" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="idle sebas0015" x="2992" y="2133" width="623" height="837" frameX="-76" frameY="-26" frameWidth="731" frameHeight="907"/>
+	<SubTexture name="left sebas0000" x="3715" y="2133" width="922" height="906"/>
+	<SubTexture name="left sebas0001" x="4737" y="2133" width="922" height="906"/>
+	<SubTexture name="left sebas0002" x="5759" y="2133" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0003" x="6753" y="2133" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0004" x="100" y="3139" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0005" x="1094" y="3139" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0006" x="2088" y="3139" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0007" x="3082" y="3139" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0008" x="4076" y="3139" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0009" x="5070" y="3139" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0010" x="6064" y="3139" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0011" x="7058" y="3139" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0012" x="100" y="4124" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0013" x="1094" y="4124" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="left sebas0014" x="2088" y="4124" width="894" height="885" frameX="-22" frameY="-8" frameWidth="922" frameHeight="906"/>
+	<SubTexture name="right sebas0000" x="3082" y="4124" width="920" height="872" frameX="-1" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0001" x="4102" y="4124" width="920" height="872" frameX="-1" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0002" x="5122" y="4124" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0003" x="6113" y="4124" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0004" x="7104" y="4124" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0005" x="100" y="5109" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0006" x="1091" y="5109" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0007" x="2082" y="5109" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0008" x="3073" y="5109" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0009" x="4064" y="5109" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0010" x="5055" y="5109" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0011" x="6046" y="5109" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0012" x="7037" y="5109" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0013" x="100" y="6067" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas0014" x="1091" y="6067" width="891" height="858" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="up sebas0000" x="2082" y="6067" width="956" height="980"/>
+	<SubTexture name="up sebas0001" x="3138" y="6067" width="956" height="980"/>
+	<SubTexture name="up sebas0002" x="4194" y="6067" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0003" x="5216" y="6067" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0004" x="6238" y="6067" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0005" x="100" y="7147" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0006" x="1122" y="7147" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0007" x="2144" y="7147" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0008" x="3166" y="7147" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0009" x="4188" y="7147" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0010" x="5210" y="7147" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+	<SubTexture name="up sebas0011" x="6232" y="7147" width="922" height="922" frameX="-22" frameY="-46" frameWidth="956" frameHeight="980"/>
+</TextureAtlas>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sebas angy.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down sebas angy0000" x="100" y="100" width="956" height="926"/>
+	<SubTexture name="down sebas angy0001" x="1156" y="100" width="956" height="926"/>
+	<SubTexture name="down sebas angy0002" x="2212" y="100" width="915" height="900" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="down sebas angy0003" x="3227" y="100" width="915" height="900" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="down sebas angy0004" x="4242" y="100" width="915" height="900" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="down sebas angy0005" x="5257" y="100" width="915" height="900" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="down sebas angy0006" x="6272" y="100" width="915" height="900" frameX="-20" frameY="0" frameWidth="956" frameHeight="926"/>
+	<SubTexture name="idle sebas angy0000" x="7287" y="100" width="717" height="904" frameX="-12" frameY="-6" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0001" x="100" y="1126" width="717" height="904" frameX="-12" frameY="-6" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0002" x="917" y="1126" width="732" height="912"/>
+	<SubTexture name="idle sebas angy0003" x="1749" y="1126" width="732" height="912"/>
+	<SubTexture name="idle sebas angy0004" x="2581" y="1126" width="705" height="890" frameX="-17" frameY="-9" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0005" x="3386" y="1126" width="705" height="890" frameX="-17" frameY="-9" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0006" x="4191" y="1126" width="705" height="890" frameX="-17" frameY="-9" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0007" x="4996" y="1126" width="650" height="850" frameX="-55" frameY="-24" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0008" x="5746" y="1126" width="650" height="850" frameX="-55" frameY="-24" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0009" x="6496" y="1126" width="622" height="830" frameX="-76" frameY="-34" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0010" x="7218" y="1126" width="622" height="830" frameX="-76" frameY="-34" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0011" x="100" y="2138" width="622" height="830" frameX="-76" frameY="-34" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0012" x="822" y="2138" width="622" height="830" frameX="-76" frameY="-34" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0013" x="1544" y="2138" width="622" height="830" frameX="-76" frameY="-34" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0014" x="2266" y="2138" width="622" height="830" frameX="-76" frameY="-34" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="idle sebas angy0015" x="2988" y="2138" width="622" height="830" frameX="-76" frameY="-34" frameWidth="732" frameHeight="912"/>
+	<SubTexture name="left sebas angy0000" x="3710" y="2138" width="918" height="905"/>
+	<SubTexture name="left sebas angy0001" x="4728" y="2138" width="918" height="905"/>
+	<SubTexture name="left sebas angy0002" x="5746" y="2138" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0003" x="6741" y="2138" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0004" x="100" y="3143" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0005" x="1095" y="3143" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0006" x="2090" y="3143" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0007" x="3085" y="3143" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0008" x="4080" y="3143" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0009" x="5075" y="3143" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0010" x="6070" y="3143" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0011" x="7065" y="3143" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0012" x="100" y="4132" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0013" x="1095" y="4132" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="left sebas angy0014" x="2090" y="4132" width="895" height="889" frameX="-22" frameY="-8" frameWidth="918" frameHeight="905"/>
+	<SubTexture name="right sebas angy0000" x="3085" y="4132" width="920" height="872" frameX="-1" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0001" x="4105" y="4132" width="920" height="872" frameX="-1" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0002" x="5125" y="4132" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0003" x="6116" y="4132" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0004" x="7107" y="4132" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0005" x="100" y="5121" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0006" x="1091" y="5121" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0007" x="2082" y="5121" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0008" x="3073" y="5121" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0009" x="4064" y="5121" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0010" x="5055" y="5121" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0011" x="6046" y="5121" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0012" x="7037" y="5121" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0013" x="100" y="6084" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="right sebas angy0014" x="1091" y="6084" width="891" height="863" frameX="0" frameY="0" frameWidth="921" frameHeight="872"/>
+	<SubTexture name="up sebas angy0000" x="2082" y="6084" width="944" height="980"/>
+	<SubTexture name="up sebas angy0001" x="3126" y="6084" width="944" height="980"/>
+	<SubTexture name="up sebas angy0002" x="4170" y="6084" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0003" x="5197" y="6084" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0004" x="6224" y="6084" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0005" x="100" y="7164" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0006" x="1127" y="7164" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0007" x="2154" y="7164" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0008" x="3181" y="7164" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0009" x="4208" y="7164" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0010" x="5235" y="7164" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+	<SubTexture name="up sebas angy0011" x="6262" y="7164" width="927" height="926" frameX="-17" frameY="-46" frameWidth="944" frameHeight="980"/>
+</TextureAtlas>

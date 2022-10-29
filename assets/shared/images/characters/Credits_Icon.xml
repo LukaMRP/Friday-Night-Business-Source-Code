@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Credits_Icon.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits_icon0000" x="0" y="0" width="505" height="431" frameX="-2" frameY="0" frameWidth="526" frameHeight="432"/>
+	<SubTexture name="credits_icon0001" x="0" y="0" width="505" height="431" frameX="-2" frameY="0" frameWidth="526" frameHeight="432"/>
+	<SubTexture name="credits_icon0002" x="0" y="0" width="505" height="431" frameX="-2" frameY="0" frameWidth="526" frameHeight="432"/>
+	<SubTexture name="credits_icon0003" x="605" y="0" width="522" height="430" frameX="0" frameY="-2" frameWidth="526" frameHeight="432"/>
+	<SubTexture name="credits_icon0004" x="605" y="0" width="522" height="430" frameX="0" frameY="-2" frameWidth="526" frameHeight="432"/>
+	<SubTexture name="credits_icon0005" x="605" y="0" width="522" height="430" frameX="0" frameY="-2" frameWidth="526" frameHeight="432"/>
+	<SubTexture name="credits_icon0006" x="1227" y="0" width="526" height="428" frameX="0" frameY="-2" frameWidth="526" frameHeight="432"/>
+	<SubTexture name="credits_icon0007" x="1227" y="0" width="526" height="428" frameX="0" frameY="-2" frameWidth="526" frameHeight="432"/>
+	<SubTexture name="credits_icon0008" x="1227" y="0" width="526" height="428" frameX="0" frameY="-2" frameWidth="526" frameHeight="432"/>
+</TextureAtlas>

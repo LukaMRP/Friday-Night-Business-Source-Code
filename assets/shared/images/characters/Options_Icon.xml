@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options_Icon.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options_icon instancia 10000" x="0" y="0" width="368" height="350" frameX="0" frameY="0" frameWidth="371" frameHeight="350"/>
+	<SubTexture name="options_icon instancia 10001" x="0" y="0" width="368" height="350" frameX="0" frameY="0" frameWidth="371" frameHeight="350"/>
+	<SubTexture name="options_icon instancia 10002" x="0" y="0" width="368" height="350" frameX="0" frameY="0" frameWidth="371" frameHeight="350"/>
+	<SubTexture name="options_icon instancia 10003" x="468" y="0" width="365" height="344" frameX="-3" frameY="-4" frameWidth="371" frameHeight="350"/>
+	<SubTexture name="options_icon instancia 10004" x="468" y="0" width="365" height="344" frameX="-3" frameY="-4" frameWidth="371" frameHeight="350"/>
+	<SubTexture name="options_icon instancia 10005" x="468" y="0" width="365" height="344" frameX="-3" frameY="-4" frameWidth="371" frameHeight="350"/>
+	<SubTexture name="options_icon instancia 10006" x="0" y="450" width="370" height="344" frameX="-1" frameY="-2" frameWidth="371" frameHeight="350"/>
+	<SubTexture name="options_icon instancia 10007" x="0" y="450" width="370" height="344" frameX="-1" frameY="-2" frameWidth="371" frameHeight="350"/>
+	<SubTexture name="options_icon instancia 10008" x="0" y="450" width="370" height="344" frameX="-1" frameY="-2" frameWidth="371" frameHeight="350"/>
+</TextureAtlas>
