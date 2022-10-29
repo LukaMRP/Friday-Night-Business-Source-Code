@@ -20,27 +20,27 @@ otherwise, you can delete the "VIDEOS_ALLOWED" Line on Project.xml
 
 # Credits:
 
-**Business Team**
+#**Business Team**
 
-€ Anny Perez-
+ºAnny Perez - Main Artist
 
-TwinGeoduk-
+ºTwinGeoduk - Artist, Animator, Charter and Coder
 
-LukaMRP-
+ºLukaMRP - Main Programmer
 
-Dany Games *DG*-
-Dry3518-
+ºStar Dust - Director
 
-ElBendy1-
+ºDany Games *DG* - Design of Dead BF and 2nd Animator
 
-LovelyAriel-
+ºDry3518 - Musician
 
-Star Dust-
+ºElBendy1 - Musician (made erect remixes)
 
-Pancho-
+ºLovelyAriel - Charter
 
+ºPancho - Sebas voice
 
-**Psych Team**
+#**Psych Team**
 
 Shadow Mario - Programmer-
 
