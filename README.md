@@ -74,12 +74,12 @@ _____________________________________
 * Working both for Source code modding and Downloaded builds!
 
 ## Story mode menu rework:
-![]([https://i.imgur.com/UB2EKpV.png](https://imgur.com/Un3SuXm))
+![](https://i.imgur.com/Un3SuXm.png)
 * Added a different BG to every song (less Tutorial)
 * All menu characters are now in individual spritesheets, makes modding it easier.
 
 ## Credits menu
-![Screenshot_1]([https://user-images.githubusercontent.com/44785097/144632635-f263fb22-b879-4d6b-96d6-865e9562b907.png](https://imgur.com/8Wr83IP))
+![Screenshot_1](https://i.imgur.com/8Wr83IP.png)
 * You can add a head icon, name, description and a Redirect link for when the player presses Enter while the item is currently selected.
 
 ## Options menu:
